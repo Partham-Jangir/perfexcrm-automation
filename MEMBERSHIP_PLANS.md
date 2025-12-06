@@ -21,6 +21,14 @@ Our Perfex CRM Maintenance Service offers tiered membership plans designed to me
 - Basic system health checks
 - Email notifications for critical issues
 
+### Subscribe to Basic Plan
+
+Take advantage of our limited time 80% discount offer!
+
+[Subscribe Now with Razorpay](YOUR_BASIC_PLAN_RAZORPAY_LINK_HERE)
+
+*Original price: $99/month | Discounted price: $20/month*
+
 ### 2. Professional Plan
 **Price:** $249/month
 
@@ -40,6 +48,14 @@ Our Perfex CRM Maintenance Service offers tiered membership plans designed to me
 - Performance optimization scripts
 - Scheduled report generation
 - System alert notifications
+
+### Subscribe to Professional Plan
+
+Take advantage of our limited time 80% discount offer!
+
+[Subscribe Now with Razorpay](YOUR_PROFESSIONAL_PLAN_RAZORPAY_LINK_HERE)
+
+*Original price: $249/month | Discounted price: $50/month*
 
 ### 3. Enterprise Plan
 **Price:** $499/month
@@ -63,6 +79,14 @@ Our Perfex CRM Maintenance Service offers tiered membership plans designed to me
 - Automated failover systems
 - Custom workflow automation
 - Integration with third-party tools
+
+### Subscribe to Enterprise Plan
+
+Take advantage of our limited time 80% discount offer!
+
+[Subscribe Now with Razorpay](YOUR_ENTERPRISE_PLAN_RAZORPAY_LINK_HERE)
+
+*Original price: $499/month | Discounted price: $100/month*
 
 ## Add-on Services
 
