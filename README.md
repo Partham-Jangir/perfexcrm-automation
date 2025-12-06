@@ -1,5 +1,18 @@
 # Perfex CRM Automation
 
+## 🎉 LIMITED TIME OFFER: 80% DISCOUNT ON ALL PLANS! 🎉
+
+Take advantage of this exclusive offer for a limited time only. All our maintenance and automation plans are now available at 80% off the regular price.
+
+Original prices slashed for incredible savings:
+- Basic Plan: ~~$99~~ **$20/month**
+- Professional Plan: ~~$249~~ **$50/month**
+- Enterprise Plan: ~~$499~~ **$100/month**
+
+This is a rare opportunity to get premium Perfex CRM automation services at a fraction of the cost. Don't miss out!
+
+---
+
 This repository contains the design and implementation of automation solutions for Perfex CRM.
 
 ## Contents
