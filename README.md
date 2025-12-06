@@ -20,6 +20,7 @@ This repository contains the design and implementation of automation solutions f
 - [Membership Plans](MEMBERSHIP_PLANS.md) - Detailed service tiers and pricing
 - [Automation Package](AUTOMATION_PACKAGE.md) - Technical design and implementation details
 - [AI Agent Workflow Automation](AI_AGENT_WORKFLOW_AUTOMATION.md) - Intelligent AI-powered workflow automation
+- [Subscription Options](SUBSCRIBE.md) - Subscribe to our plans with Razorpay
 
 ## Subscription Plans
 
